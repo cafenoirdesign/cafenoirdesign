@@ -1,8 +1,7 @@
-### Hi there 👋
-
+Data scientist, journalist, sewist, hiker, modern quilter, slam poet, and mum of 4.
 <!--
 **cafenoirdesign/cafenoirdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
