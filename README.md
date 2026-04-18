@@ -1,4 +1,4 @@
-Data scientist, journalist, sewist, hiker, modern quilter, slam poet, and mum of 4.
+Principal Data Scientist at Automattic. Experimentation, AI product analytics, and data infrastructure. Co-editor of data.blog. Background in behavioural neuroscience and science journalism.
 <!--
 **cafenoirdesign/cafenoirdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
